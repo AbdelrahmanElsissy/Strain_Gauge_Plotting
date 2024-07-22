@@ -1,0 +1,2 @@
+#define YZC516CFAKTOR 39700.f
+
